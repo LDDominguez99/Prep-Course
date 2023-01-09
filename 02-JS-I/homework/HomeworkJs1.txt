@@ -1,0 +1,5 @@
+Variable: Contenedor donde se almacenan datos que pueden cambiar.
+String: Es un contenedor donde puedes almacenar distintos caracteres
+Funciones: Es un objeto en el cual realizamos operaciones dentro de el, que consta de los argumentos que son los valores y el return que nos devuelve los resultados de la funcion.
+Declaraciones if: Corresponden a acciones que se realizaran si ciertas condicionales se cumplen.
+Valores booleanas: Para este caso se refiere unicamente a datos que pueden ser verdaderos o falsos.
