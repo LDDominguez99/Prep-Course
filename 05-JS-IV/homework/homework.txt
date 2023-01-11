@@ -1,0 +1,5 @@
+	* ObjetosL: Todo en JS es un objeto
+	* Propiedades: Es la relacion entre un nombre y su valor
+	* Métodos: Son funciones propiedad de algun objeto
+	* Bucle `for…in`: Es un proceso que nos permite iterar sobre propiedades de un objeto
+	* Notación de puntos vs notación de corchetes: La diferencia radica en que se suelen usar los corchetes cuando lo que estamos usando son variables. 
