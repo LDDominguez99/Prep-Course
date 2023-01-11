@@ -1,0 +1,2 @@
+* `for` Es un ciclo que se repetira hasta que se deje de cumplir su condicional
+* `&&`, `||`, `!` son operadores logicos, el primero obliga a que todas las condiciones se cumplan, el segundo obliga a que al menos una de las condiciones se cumplan y el tercero es una negacion.

@@ -1,0 +1,1 @@
+ Arrays es un contenedor donde se almacenan variables del mismo tipo
